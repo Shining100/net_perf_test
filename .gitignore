@@ -9,7 +9,11 @@ Release*/
 *.opt
 *.plg
 *.tlb
+*.o
 
 sys$command
 *~
 *.swp
+
+tcp_rtt_server/tcp_rtt_server
+
