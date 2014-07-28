@@ -1,0 +1,15 @@
+Debug*/
+Release*/
+*.ncb
+*.user
+*.suo
+*.db
+*.sdf
+*.opensdf
+*.opt
+*.plg
+*.tlb
+
+sys$command
+*~
+*.swp
